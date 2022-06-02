@@ -64,7 +64,7 @@
       "filterable": 1,
       "ext": "https://gitee.com/kan67/cat-tv/raw/master/88kanqiu.json"
     },
-    {"key":"csp_xpath_A33","name":"MTV🎸","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/kan67/cat-tv/raw/master/MTV.json"},
+   
     {
       "key": "csp_DiDuan",
       "name": "低端🐞",
